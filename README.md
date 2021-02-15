@@ -1,5 +1,5 @@
-# Mulheres no mundo da tecnologia
-Olá! Eu sou a Morganna e estou fazendo lives na twitch sobre programação e outras coisas. Em cada uma das nossas lives, iremos conhecer uma mulher do mundo da tecnologia. E, também, vamos registrar um resumo de suas histórias aqui.
+# Mulheres no mundo da tecnologia :computer:
+Olá! Eu sou a Morganna e estou fazendo lives na [twitch](https://www.twitch.tv/morgiovanelli) sobre programação e outras coisas. Em cada uma das nossas lives, iremos conhecer uma mulher do mundo da tecnologia. E, também, vamos registrar um resumo de suas histórias aqui.
 
 ## [0] Ada Lovelace
 Nascida como Augusta Ada Byron King. Viveu entre 1815 e 1852. Foi a primeira pessoa (e não apenas a primeira mulher) a desenvolver um algoritmo que poderia ser implementado em um computador. Foi matemática, primeira pessoa programadora, poetisa, cientista da computação, inventora, tradutora, escritora e engenheira.
@@ -20,4 +20,4 @@ Irmã Mary Kenneth Keller, viveu entre 1913 e 1985. Foi freira e uma grande cien
 Dorothy Johnson Vaughan, viveu entre 1910 e 2008. Foi uma matemática estadunidense, que trabalhou na National Advisory Committee for Aeronautics (NACA), a agência predecessora da NASA. Em 1949, ela foi a primeira mulher negra a ser promovida chefe de departamento na NASA.
 
 ## [6] Carol Shaw
-Carol Shaw, nasceu em 1955. Ela é uma engenheira computacional conhecida por ser a primeira mulher desenvolvedora de jogos eletrônicos no mundo. Seu primeiro jogo criado foi o 3D Tic-Tac-Toe e sua entrada nessa indústria, abriu portas para outras mulheres também. Hoje, Carol é aposentada, mas realiza diversos trabalhos em organizações relacionadas à tecnologia.
+Carol Shaw, nasceu em 1955. Ela é uma engenheira computacional conhecida por ser a primeira mulher desenvolvedora de jogos eletrônicos no mundo, que trabalhou na empresa Atari. Seu primeiro jogo criado foi o 3D Tic-Tac-Toe e sua entrada nessa indústria, abriu portas para outras mulheres também. Hoje, Carol é aposentada, mas realiza diversos trabalhos em organizações relacionadas à tecnologia.
