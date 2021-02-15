@@ -23,3 +23,6 @@ Dorothy Johnson Vaughan, viveu entre 1910 e 2008. Foi uma matemática estadunide
 
 ## [6] Carol Shaw
 Carol Shaw, nasceu em 1955. Ela é uma engenheira computacional conhecida por ser a primeira mulher desenvolvedora de jogos eletrônicos no mundo, que trabalhou na empresa Atari. Seu primeiro jogo criado foi o 3D Tic-Tac-Toe e sua entrada nessa indústria, abriu portas para outras mulheres também. Hoje, Carol é aposentada, mas realiza diversos trabalhos em organizações relacionadas à tecnologia.
+
+## [7] Mulheres do ENIAC
+Foram 6: Betty Holberton, Marlyn Meltzer, Frances Spence, Kathleen Antonelli, Ruth Teitelbaum e Adele Goldstine. Eram responsáveis pelas configurações do ENIAC para realizar diversos cálculos. Também criaram protocolos utilizados até hoje, o teclado numérico para facilitar a programação, entre outras coisas.
