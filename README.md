@@ -1,5 +1,7 @@
 # Mulheres no mundo da tecnologia :computer:
-Olá! Eu sou a Morganna e estou fazendo lives na [twitch](https://www.twitch.tv/morgiovanelli) sobre programação e outras coisas. Em cada uma das nossas lives, iremos conhecer uma mulher do mundo da tecnologia. E, também, vamos registrar um resumo de suas histórias aqui.
+Olá, mundo!
+Eu sou a Morganna, sou desenvolvedora backend e estou fazendo lives na [twitch](https://www.twitch.tv/morgiovanelli) sobre programação e outras coisas. Faço parte da equipe [Live Coder Girls](https://www.twitch.tv/team/livecodergirls).
+Em cada uma das nossas lives, iremos conhecer uma mulher do mundo da tecnologia. E, também, vamos registrar um resumo de suas histórias aqui.
 
 ## [0] Ada Lovelace
 Nascida como Augusta Ada Byron King. Viveu entre 1815 e 1852. Foi a primeira pessoa (e não apenas a primeira mulher) a desenvolver um algoritmo que poderia ser implementado em um computador. Foi matemática, primeira pessoa programadora, poetisa, cientista da computação, inventora, tradutora, escritora e engenheira.
