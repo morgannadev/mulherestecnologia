@@ -26,3 +26,6 @@ Carol Shaw, nasceu em 1955. Ela é uma engenheira computacional conhecida por se
 
 ## [7] Mulheres do ENIAC
 Foram 6: Betty Holberton, Marlyn Meltzer, Frances Spence, Kathleen Antonelli, Ruth Teitelbaum e Adele Goldstine. Eram responsáveis pelas configurações do ENIAC para realizar diversos cálculos. Também criaram protocolos utilizados até hoje, o teclado numérico para facilitar a programação, entre outras coisas.
+
+## [8] Betty Holberton
+Frances Elizabeth Holberton, viveu entre 1917 e 2001. Foi uma das programadoras originais do ENIAC. Foi cientista da computação, programadora e matemática. Enquanto trabalhava no ENIAC, Betty teve várias ideias, especialmente à noite, o que virou uma piadinha entre as programadoras de que Betty resolvia vários problemas dormindo. Trabalhou no desenvolvimento do COBOL e FORTRAN com Hopper.
