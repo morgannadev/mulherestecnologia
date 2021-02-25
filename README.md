@@ -29,3 +29,6 @@ Foram 6: Betty Holberton, Marlyn Meltzer, Frances Spence, Kathleen Antonelli, Ru
 
 ## [8] Betty Holberton
 Frances Elizabeth Holberton, viveu entre 1917 e 2001. Foi uma das programadoras originais do ENIAC. Foi cientista da computação, programadora e matemática. Enquanto trabalhava no ENIAC, Betty teve várias ideias, especialmente à noite, o que virou uma piadinha entre as programadoras de que Betty resolvia vários problemas dormindo. Trabalhou no desenvolvimento do COBOL e FORTRAN com Hopper.
+
+## [9] Radia Perlman
+Radia Joy Perlman, nasceu em 1951. É cientista da computação, projetista de software e engenheira de redes. É considerada "mãe da Internet" por sua invenção do protocolo Spanning Tree (STP), fundamental para a operação de pontes de rede. Também contribuiu na criação dos protocolos de roteamento link-state. Inventou o protocolo TRILL para corrigir problemas das spanning trees. Atualmente, ela é funcionária da Dell EMC.
