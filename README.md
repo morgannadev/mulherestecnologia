@@ -32,3 +32,6 @@ Frances Elizabeth Holberton, viveu entre 1917 e 2001. Foi uma das programadoras 
 
 ## [9] Radia Perlman
 Radia Joy Perlman, nasceu em 1951. É cientista da computação, projetista de software e engenheira de redes. É considerada "mãe da Internet" por sua invenção do protocolo Spanning Tree (STP), fundamental para a operação de pontes de rede. Também contribuiu na criação dos protocolos de roteamento link-state. Inventou o protocolo TRILL para corrigir problemas das spanning trees. Atualmente, ela é funcionária da Dell EMC.
+
+## [10] Anne Aaron
+Anne Aaron, é engenheira e diretora de algoritmos de vídeo da Netflix. Foi bacharel em Física e Engenharia da Computação, além de ser PhD em Engenharia Elétrica. Trabalhou nas empresas Modulus Video, Dyyno, Cisco Systems. Foi reconhecida como uma das 43 engenheiras mais poderosas em 2017 pela Business Insider. Em 2018 foi reconhecida "Top 50 mulheres da América em Tecnologia" pela Forbes. 
