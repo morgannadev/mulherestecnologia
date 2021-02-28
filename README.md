@@ -35,3 +35,6 @@ Radia Joy Perlman, nasceu em 1951. É cientista da computação, projetista de s
 
 ## [10] Anne Aaron
 Anne Aaron, é engenheira e diretora de algoritmos de vídeo da Netflix. Foi bacharel em Física e Engenharia da Computação, além de ser PhD em Engenharia Elétrica. Trabalhou nas empresas Modulus Video, Dyyno, Cisco Systems. Foi reconhecida como uma das 43 engenheiras mais poderosas em 2017 pela Business Insider. Em 2018 foi reconhecida "Top 50 mulheres da América em Tecnologia" pela Forbes. 
+
+## [11] Jean Sammet
+Jean E. Sammet, viveu entre 1928 e 2017. Foi cientista da computação americana que desenvolveu a linguagem FORMAC em 1962. Trabalhou por 27 anos para a IBM onde desenvolveu o FORMAC, a primeira linguagem de computador amplamente utilizada para manipulação simbólica de fórmulas matemáticas. Ela foi também um dos membros da subcomissão que criou a linguagem COBOL.
