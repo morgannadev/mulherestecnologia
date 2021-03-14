@@ -47,3 +47,6 @@ Michelle Yvonne Simmons, nasceu em 1967. É professora de Física Quântica,   d
 
 ## [14] Hedy Lamarr
 Hedwig Eva Maria Kiesler, viveu entre 1914 e 2000. Foi atriz, mas tornou-se também inventora. Por causa dos acontecimentos com a Segunda Guerra Mundial, sentiu-se ameaçada por suas raízes judias e algumas alianças que seu marido tinha. Em 1940 ela patenteou com seu amigo George Antheil, um aparelho de interferência em rádio para despistar radares nazistas. Contudo, apenas em 1962 as forças armadas começaram a utilizar, que foi quando a patente expirou. Em 1998, o aparelho serviu de base para a evolução da comunicação: telefonia celulares, a conexão Wi-Fi, satélites e o GPS.
+
+## [15] Barbara Liskov
+Barbara Jane Huberman, nasceu em 1939. É cientista da computação e conhecida por criar o Princípio da Substituição de Liskov, por ser a primeira mulher a obter um PhD em Ciência da Computação nos Estados Unidos e por inventar o Tipo Abstrato de Dado. É professora no Depto de Engenharia Elétrica e Ciência da Computação no MIT. É autora de mais de 140 artigos científicos. Escreveu duas linguagens de programação e metodologia de software e design de linguagem que levaram à programação orientada a objetos.
