@@ -52,4 +52,7 @@ Hedwig Eva Maria Kiesler, viveu entre 1914 e 2000. Foi atriz, mas tornou-se tamb
 Barbara Jane Huberman, nasceu em 1939. É cientista da computação e conhecida por criar o Princípio da Substituição de Liskov, por ser a primeira mulher a obter um PhD em Ciência da Computação nos Estados Unidos e por inventar o Tipo Abstrato de Dado. É professora no Depto de Engenharia Elétrica e Ciência da Computação no MIT. É autora de mais de 140 artigos científicos. Escreveu duas linguagens de programação e metodologia de software e design de linguagem que levaram à programação orientada a objetos.
 
 ## [16] Frances Allen
-Frances Allen, viveu entre 1932 e 2020. Foi mestre em Matemática. Pioneira no campo de otimização de compiladores. Suas realizações incluem trabalho influente em compiladores, otimização de códigos e computação paralela. Ela também teve um trabalho de inteligência em linguagens de programação e códigos de segurança para a National Security Agency. Allen foi a primeira IBM Fellow e em 2006 tornou-se a primeira mulher a ganhar o Prêmio Turing.
+Frances Allen, viveu entre 1932 e 2020. Mestre em Matemática. Pioneira no campo de otimização de compiladores. Suas realizações incluem compiladores, otimização de códigos e computação paralela. Também teve um trabalho de inteligência em linguagens de programação e códigos de segurança para a National Security Agency. Foi a primeira IBM Fellow e em 2006 tornou-se a primeira mulher a ganhar o Prêmio Turing.
+
+## [17] Cynthia Breazeal
+Cynthia Lynn Breazeal, nasceu em 1967. Cientista especialista em robótica pelo MIT. Pioneira da robótica social e da interação humano-robô. Inclusive, projetou um robô chamado JIBO que foi usado para investigar a cognição social e as habilidades da Teoria da Mente.
