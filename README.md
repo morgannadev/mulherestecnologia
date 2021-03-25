@@ -56,3 +56,6 @@ Frances Allen, viveu entre 1932 e 2020. Mestre em Matemática. Pioneira no campo
 
 ## [17] Cynthia Breazeal
 Cynthia Lynn Breazeal, nasceu em 1967. Cientista especialista em robótica pelo MIT. Pioneira da robótica social e da interação humano-robô. Inclusive, projetou um robô chamado JIBO que foi usado para investigar a cognição social e as habilidades da Teoria da Mente.
+
+## [18] Mariéme Jamme
+Mariéme Jamme, nasceu em 1974. Nascida no Senegal e ativista da tecnologia. Em 2016, ela fundou a iniciativa iamtheCODE e faz parte do conselho da World Wide Web Foundation. Apoiar globalmente meninas e mulheres jovens e promover os Objetivos de Desenvolvimento Sustentável da ONU. Um dos objetivos é 1 milhão de meninas e mulheres programadoras até 2030.
