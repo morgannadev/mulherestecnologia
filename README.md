@@ -59,3 +59,6 @@ Cynthia Lynn Breazeal, nasceu em 1967. Cientista especialista em robótica pelo 
 
 ## [18] Mariéme Jamme
 Mariéme Jamme, nasceu em 1974. Nascida no Senegal e ativista da tecnologia. Em 2016, ela fundou a iniciativa iamtheCODE e faz parte do conselho da World Wide Web Foundation. Apoiar globalmente meninas e mulheres jovens e promover os Objetivos de Desenvolvimento Sustentável da ONU. Um dos objetivos é 1 milhão de meninas e mulheres programadoras até 2030.
+
+## [19] Sophie Wilson
+Sophie Wilson, nasceu em 1957, mulher trans, cientista da computação. Foi a arquiteta chefe do processador Firepath da Broadcom. Hoje é diretora da empresa. Projetou o conjunto de instruções para um dos primeiros microprocessadores RISC, o ARM, que se tornou um dos mais bem sucedidos casos de propriedade intelectual, ainda usado em smartphones. Foi eleita uma das 15 mulheres mais importantes da história da tecnologia.
