@@ -62,3 +62,6 @@ Mariéme Jamme, nasceu em 1974. Nascida no Senegal e ativista da tecnologia. Em 
 
 ## [19] Sophie Wilson
 Sophie Wilson, nasceu em 1957, mulher trans, cientista da computação. Foi a arquiteta chefe do processador Firepath da Broadcom. Hoje é diretora da empresa. Projetou o conjunto de instruções para um dos primeiros microprocessadores RISC, o ARM, que se tornou um dos mais bem sucedidos casos de propriedade intelectual, ainda usado em smartphones. Foi eleita uma das 15 mulheres mais importantes da história da tecnologia.
+
+## [20] Marianna Giovanelli
+Marianna Giovanelli de Souza, nasceu em 1991. Em especial, na live do dia 03/04/21, tivemos a sua ilustre presença para aprendermos sobre Primeiros Socorros e sobre como ser uma mulher forte. Ela tem 29 anos e é Bombeira Juvenil de Ferraz de Vasconcelos. Tem síndrome de Down, está sempre estudando e evoluindo, ajudando também outras pessoas ao seu redor.
