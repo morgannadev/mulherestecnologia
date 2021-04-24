@@ -65,3 +65,6 @@ Sophie Wilson, nasceu em 1957, mulher trans, cientista da computação. Foi a ar
 
 ## [20] Marianna Giovanelli
 Marianna Giovanelli de Souza, nasceu em 1991. Em especial, na live do dia 03/04/21, tivemos a sua ilustre presença para aprendermos sobre Primeiros Socorros e sobre como ser uma mulher forte. Ela tem 29 anos e é Bombeira Juvenil de Ferraz de Vasconcelos. Tem síndrome de Down, está sempre estudando e evoluindo, ajudando também outras pessoas ao seu redor.
+
+## [21] Adele Goldberg
+Adele Goldberg, nasceu em 1945. Pioneira em GUI (Graphical User Interface). Desenvolveu o smalltalk-80, linguagem que introduziu um ambiente de janelas sobrepostas em telas de exibição gráfica que permitia aos usuários interagirem com o computador por meio de uma interface. O sistema foi apresentado a Steve Jobs que mais tarde confirmou que o desenvolvimento da tecnologia inspirou o que viria a ser a Apple.
