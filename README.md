@@ -65,3 +65,6 @@ Sophie Wilson, nasceu em 1957, mulher trans, cientista da computação. Foi a ar
 
 ## [20] Adele Goldberg
 Adele Goldberg, nasceu em 1945. Pioneira em GUI (Graphical User Interface). Desenvolveu o smalltalk-80, linguagem que introduziu um ambiente de janelas sobrepostas em telas de exibição gráfica que permitia aos usuários interagirem com o computador por meio de uma interface. O sistema foi apresentado a Steve Jobs que mais tarde confirmou que o desenvolvimento da tecnologia inspirou o que viria a ser a Apple.
+
+## [21] Deborah Estrin
+Deborah Estrin, nasceu em 1959. PhD em Engenharia Elétrica e Ciência da Computação MIT. Professora de Ciência da Computação na Cornell Tech, onde ocupa a cadeira do fundador R. Tishman e também atua como reitora. Considerada pioneira no desenvolvimento de sistemas móveis e sem fio para coletar e analisar dados em tempo real, além de ser reconhecida pelas suas pesquisas de tecnologias para cuidados e saúde imersiva.
