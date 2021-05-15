@@ -68,3 +68,6 @@ Adele Goldberg, nasceu em 1945. Pioneira em GUI (Graphical User Interface). Dese
 
 ## [21] Deborah Estrin
 Deborah Estrin, nasceu em 1959. PhD em Engenharia Elétrica e Ciência da Computação MIT. Professora de Ciência da Computação na Cornell Tech, onde ocupa a cadeira do fundador R. Tishman e também atua como reitora. Considerada pioneira no desenvolvimento de sistemas móveis e sem fio para coletar e analisar dados em tempo real, além de ser reconhecida pelas suas pesquisas de tecnologias para cuidados e saúde imersiva.
+
+## [22] Coraline Ada Ehmke
+Coraline Ada Ehmke, mulher trans, engenheira de software. Criadora do Contributor Covenant para comunidades de código aberto, da Hippocratic License que proíbe o uso de código aberto para violações de direitos humanos, da Organization for Ethical Source uma organização que capacita devs de código aberto. Sempre ativa em falas e ações sobre diversidade, a igualdade e a justiça.
