@@ -74,3 +74,6 @@ Coraline Ada Ehmke, mulher trans, engenheira de software. Criadora do Contributo
 
 ## [23] Mave Houston
 Mave Houston, aprendeu a programar aos 8 anos. PhD em CC e Engenharia de Software. Head de UXR na Disney Streaming. Palestrante do evento Lesbians Who Tech. Líder de design com mais de 13 anos de experiência. Fundadora da Capital One USERLabs, o primeiro programa de pesquisa de UX da Capital One. Criou e liderou um amplo Programa de Pesquisa do Usuário que tornou a pesquisa de design fácil e acessível para todos.
+
+## [24] Divya Manian
+Divya Manian é pioneira e defensora do open web standards. Co-criadora do framework HTML5 Boilerplate, membro do W3C, escritora de livros de tecnologia. Já trabalhou no Opera, na Adobe e hoje trabalha na Apple. Junto com 8 mulheres, escreveu uma carta para a indústria de tecnologia para descrever a discriminação generalizada. Foi coberto no Washington Post, NYTimes, PBS, CBS, Elle e outros.
