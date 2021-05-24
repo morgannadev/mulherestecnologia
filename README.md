@@ -77,3 +77,6 @@ Mave Houston, aprendeu a programar aos 8 anos. PhD em CC e Engenharia de Softwar
 
 ## [24] Divya Manian
 Divya Manian é pioneira e defensora do open web standards. Co-criadora do framework HTML5 Boilerplate, membro do W3C, escritora de livros de tecnologia. Já trabalhou no Opera, na Adobe e hoje trabalha na Apple. Junto com 8 mulheres, escreveu uma carta para a indústria de tecnologia para descrever a discriminação generalizada. Foi coberto no Washington Post, NYTimes, PBS, CBS, Elle e outros.
+
+## [25] Lynn Conway
+Lynn Conway, nasceu em 1938. Cientista da computação, engenheira elétrica, inventora e ativista transgênera. Inventou o manuseio de instruções dinâmicas generalizadas, usado na execução fora de ordem por processadores para desempenho. Quando criança, construiu um telescópio refletor de 6 polegadas. Teve uma tentativa de transição de gênero em 57/58 que falhou devido às questões médicas da época. Trabalhou na IBM.
