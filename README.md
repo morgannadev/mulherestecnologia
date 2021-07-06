@@ -80,3 +80,9 @@ Divya Manian é pioneira e defensora do open web standards. Co-criadora do frame
 
 ## [25] Lynn Conway
 Lynn Conway, nasceu em 1938. Cientista da computação, engenheira elétrica, inventora e ativista transgênera. Inventou o manuseio de instruções dinâmicas generalizadas, usado na execução fora de ordem por processadores para desempenho. Quando criança, construiu um telescópio refletor de 6 polegadas. Teve uma tentativa de transição de gênero em 57/58 que falhou devido às questões médicas da época. Trabalhou na IBM.
+
+## [26] Sophie Alpert
+Sophie Alpert, mulher trans que foi engenheira de tecnologia do Facebook e uma das líderes do projeto de código aberto React dentro da empresa.
+
+## [27] Svetlana Isakova
+Svetlana Isakova trabalhou na linguagem Kotlin na JetBrains. Ela é co-autora dos livros 'Kotlin em ação' e 'AtomicKotlin' e agora é uma Developer Advocate da JetBrains, onde passa seu tempo ensinando Kotlin e falando em conferências em todo o mundo. Seu twitter é: [sveta_isakova](https://twitter.com/sveta_isakova).
