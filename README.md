@@ -86,3 +86,6 @@ Sophie Alpert, mulher trans que foi engenheira de tecnologia do Facebook e uma d
 
 ## [27] Svetlana Isakova
 Svetlana Isakova trabalhou na linguagem Kotlin na JetBrains. Ela é co-autora dos livros 'Kotlin em ação' e 'AtomicKotlin' e agora é uma Developer Advocate da JetBrains, onde passa seu tempo ensinando Kotlin e falando em conferências em todo o mundo. Seu twitter é: [sveta_isakova](https://twitter.com/sveta_isakova).
+
+## [28] Ekaterina Petrova
+Ekaterina Petrova é Developer Advocate na JetBrains e produz vários conteúdos sobre Kotlin e também sobre KMM (Kotlin Multiplatform Mobile). 
