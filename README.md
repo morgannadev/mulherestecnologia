@@ -89,3 +89,6 @@ Svetlana Isakova trabalhou na linguagem Kotlin na JetBrains. Ela é co-autora do
 
 ## [28] Ekaterina Petrova
 Ekaterina Petrova é Developer Advocate na JetBrains e produz vários conteúdos sobre Kotlin e também sobre KMM (Kotlin Multiplatform Mobile). 
+
+## [29] Edith Clarke
+Edith Clarke, nasceu em 1883. Formou-se em matemática e astronomia em 1908 e depois estudou Engenharia Civil. Em 1919 tornou-se a primeira mulher a conquistar um Mestrado no Departamento de Engenharia Elétrica e Ciência da Computação do MIT, tornando-se a primeira engenheira elétrica do país. Dois anos depois registrou sua primeira patente: uma calculadora gráfica, que melhorava os métodos para solucionar problemas de transmissão de energia elétrica.
