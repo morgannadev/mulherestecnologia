@@ -92,3 +92,6 @@ Ekaterina Petrova é Developer Advocate na JetBrains e produz vários conteúdos
 
 ## [29] Edith Clarke
 Edith Clarke, nasceu em 1883. Formou-se em matemática e astronomia em 1908 e depois estudou Engenharia Civil. Em 1919 tornou-se a primeira mulher a conquistar um Mestrado no Departamento de Engenharia Elétrica e Ciência da Computação do MIT, tornando-se a primeira engenheira elétrica do país. Dois anos depois registrou sua primeira patente: uma calculadora gráfica, que melhorava os métodos para solucionar problemas de transmissão de energia elétrica.
+
+## [30] Joan Clarke
+Joan Clarke, 1917 — 1996. Em Cambridge formou-se como primeira da classe em matemática. Porém, o título pleno de matemática lhe foi negado, pois até o ano de 1948 somente homens podiam receber tal título. Foi uma criptoanalista inglesa, mais conhecida pelo seu trabalho como decodificadora de mensagens nazistas durante a II Guerra Mundial que possibilitou salvar inúmeras vidas. Ainda há um selo de confidencialidade sobre seu trabalho para o governo, então boa parte de seus feitos ainda não são conhecidos.
