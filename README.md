@@ -95,3 +95,6 @@ Edith Clarke, nasceu em 1883. Formou-se em matemática e astronomia em 1908 e de
 
 ## [30] Joan Clarke
 Joan Clarke, 1917 — 1996. Em Cambridge formou-se como primeira da classe em matemática. Porém, o título pleno de matemática lhe foi negado, pois até o ano de 1948 somente homens podiam receber tal título. Foi uma criptoanalista inglesa, mais conhecida pelo seu trabalho como decodificadora de mensagens nazistas durante a II Guerra Mundial que possibilitou salvar inúmeras vidas. Ainda há um selo de confidencialidade sobre seu trabalho para o governo, então boa parte de seus feitos ainda não são conhecidos.
+
+## [31] Mary Winston Jackson
+Mary Winston Jackson, formou-se no Hampton Institute em 1942, onde estudou matemática e física. Foi autora e co-autora de diversos relatórios de pesquisa e destacou-se na NASA, onde começou a trabalhar em 1951. Para poder continuar seus experimentos na Insitituição, teve que cursar enegenharia, sendo a primeira mulher negra engenheira da Nasa.
