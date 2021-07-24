@@ -98,3 +98,6 @@ Joan Clarke, 1917 — 1996. Em Cambridge formou-se como primeira da classe em ma
 
 ## [31] Mary Winston Jackson
 Mary Winston Jackson, formou-se no Hampton Institute em 1942, onde estudou matemática e física. Foi autora e co-autora de diversos relatórios de pesquisa e destacou-se na NASA, onde começou a trabalhar em 1951. Para poder continuar seus experimentos na Insitituição, teve que cursar enegenharia, sendo a primeira mulher negra engenheira da Nasa.
+
+## [32] Kathy Kleiman
+Kathy Kleiman fundadora do projeto de programadoras ENIAC, historiadora e autora. Sua tese de último ano exploraram a história dass programadoras ENIAC e muitas outras mulheres que foram pioneiras na programação inicial e software. Decidiu registrar suas histórias, buscar reconhecimento por suas realizações e produzir um documentário para contar sua dramática história. http://eniacprogrammers.org/
