@@ -101,3 +101,6 @@ Mary Winston Jackson, formou-se no Hampton Institute em 1942, onde estudou matem
 
 ## [32] Kathy Kleiman
 Kathy Kleiman fundadora do projeto de programadoras ENIAC, historiadora e autora. Sua tese de último ano exploraram a história dass programadoras ENIAC e muitas outras mulheres que foram pioneiras na programação inicial e software. Decidiu registrar suas histórias, buscar reconhecimento por suas realizações e produzir um documentário para contar sua dramática história. http://eniacprogrammers.org/
+
+## [33] Cláudia Medeiros
+Cláudia Maria Bauzer Medeiros é doutora em Ciência da Computação pela Universidade de Waterloo (Canadá). Foi presidente da Sociedade Brasileira de Computação (SBC) de 2004 a 2007. Atualmente é professora da Unicamp, onde fundou o Laboratory of Information Systems (LIS), e professora visitante da Universidade Paris-Dauphine, onde 2015 conquistou o título de Dr Honoris Causa. Tem diversos reconhecimentos internacionais por suas pesquisas e por fomentar a participação de mulheres na área de TI.
