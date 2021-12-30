@@ -19,7 +19,7 @@ Karen Spärck Jones, viveu entre 1935 e 2007. Foi cientista da computação e re
 Irmã Mary Kenneth Keller, viveu entre 1913 e 1985. Foi freira e uma grande cientista da computação. Foi a primeira mulher a receber um doutorado na área. Sua tese chama-se Inferência indutiva em padrões gerados por computador. Participou do desenvolvimento da linguagem de programação BASIC e também era defensora da inclusão e do envolvimento de mulheres na ciência da computação.
 
 ## [5] Dorothy Vaughan
-Dorothy Johnson Vaughan, viveu entre 1910 e 2008. Foi uma matemática estadunidense, que trabalhou na National Advisory Committee for Aeronautics (NACA), a agência predecessora da NASA. Em 1949, ela foi a primeira mulher negra a ser promovida chefe de departamento na NASA.
+Dorothy Johnson Vaughan, viveu entre 1910 e 2008. Foi uma matemática estadunidense, que trabalhou na National Advisory Committee for Aeronautics (NACA), a agência predecessora da NASA. Em 1949, ela foi a primeira mulher negra a ser promovida chefe de departamento na NASA. Ela lutava pela inserção das mulheres negras em todas as áreas de pesquisa. Aprendeu FORTRAM e ensinou outras mulheres, garantindo seus empregos, além de atender aos requisitos da equipe de computação da NASA.
 
 ## [6] Carol Shaw
 Carol Shaw, nasceu em 1955. Ela é uma engenheira computacional conhecida por ser a primeira mulher desenvolvedora de jogos eletrônicos no mundo, que trabalhou na empresa Atari. Seu primeiro jogo criado foi o 3D Tic-Tac-Toe e sua entrada nessa indústria, abriu portas para outras mulheres também. Hoje, Carol é aposentada, mas realiza diversos trabalhos em organizações relacionadas à tecnologia.
