@@ -104,3 +104,6 @@ Kathy Kleiman fundadora do projeto de programadoras ENIAC, historiadora e autora
 
 ## [33] Cláudia Medeiros
 Cláudia Maria Bauzer Medeiros é doutora em Ciência da Computação pela Universidade de Waterloo (Canadá). Foi presidente da Sociedade Brasileira de Computação (SBC) de 2004 a 2007. Atualmente é professora da Unicamp, onde fundou o Laboratory of Information Systems (LIS), e professora visitante da Universidade Paris-Dauphine, onde 2015 conquistou o título de Dr Honoris Causa. Tem diversos reconhecimentos internacionais por suas pesquisas e por fomentar a participação de mulheres na área de TI.
+
+## [34] Clarisse Sieckenius de Souza
+Clarisse S. de Souza veio da área de Linguística. Pesquisou Linguística Computacional em seu doutorado, o que iniciou seu caminho na área de tecnologia. Hoje, ela estuda a IHC e suas características empregadas no desenvolvimento e uso de sistemas de software. É professora e já foi escolhida uma das 54 mulheres de todos os tempos da área de Ciência da Computação.
