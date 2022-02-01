@@ -1,6 +1,6 @@
 # Mulheres no mundo da tecnologia :computer:
 Olá, mundo!
-Eu sou a Morganna, sou desenvolvedora backend e estou fazendo lives na [twitch](https://www.twitch.tv/morgiovanelli) sobre programação e outras coisas. Faço parte da equipe [Feministech](https://www.twitch.tv/team/livecodergirls).
+Eu sou a Morganna, sou desenvolvedora backend e estou fazendo lives na [twitch](https://www.twitch.tv/morgannadev) sobre programação e outras coisas. Faço parte da equipe [Feministech](https://www.twitch.tv/team/livecodergirls).
 Em cada uma das nossas lives, iremos conhecer uma mulher do mundo da tecnologia. E, também, vamos registrar um resumo de suas histórias aqui.
 
 ## [0] Ada Lovelace
