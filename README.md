@@ -107,3 +107,6 @@ Cláudia Maria Bauzer Medeiros é doutora em Ciência da Computação pela Unive
 
 ## [34] Clarisse Sieckenius de Souza
 Clarisse S. de Souza veio da área de Linguística. Pesquisou Linguística Computacional em seu doutorado, o que iniciou seu caminho na área de tecnologia. Hoje, ela estuda a IHC e suas características empregadas no desenvolvimento e uso de sistemas de software. É professora e já foi escolhida uma das 54 mulheres de todos os tempos da área de Ciência da Computação.
+
+## [35] Iana Chan
+Iana é jornalista e sempre foi apaixonada por tecnologia. Desde quando era mais nova, tinha um blog e já gostava de mexer nos códigos para deixa-lo do jeito que queria. Ela é uma inspiração para muitas mulheres. CEO e Fundadora do Programaria, uma iniciativa maravilhosa para promover a inclusão de mulheres na tecnologia.
