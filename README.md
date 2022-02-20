@@ -110,3 +110,6 @@ Clarisse S. de Souza veio da área de Linguística. Pesquisou Linguística Compu
 
 ## [35] Iana Chan
 Iana é jornalista e sempre foi apaixonada por tecnologia. Desde quando era mais nova, tinha um blog e já gostava de mexer nos códigos para deixa-lo do jeito que queria. Ela é uma inspiração para muitas mulheres. CEO e Fundadora do Programaria, uma iniciativa maravilhosa para promover a inclusão de mulheres na tecnologia.
+
+## [36] Marissa Mayer
+Marissa Ann Mayer possui doutorado em Ciência da Computação e seu trabalho acadêmico lhe rendeu diversas patentes na IA. Foi a primeira mulher engenheira do Google e chegou a ser vice-presidente de serviços geográficos. Integrou a diretoria do Yahoo, mas saiu deste cargo após a compra de outra empresa. Hoje, atua em sua startup focada em IA chamada Lumi Labs.
