@@ -113,3 +113,6 @@ Iana é jornalista e sempre foi apaixonada por tecnologia. Desde quando era mais
 
 ## [36] Marissa Mayer
 Marissa Ann Mayer possui doutorado em Ciência da Computação e seu trabalho acadêmico lhe rendeu diversas patentes na IA. Foi a primeira mulher engenheira do Google e chegou a ser vice-presidente de serviços geográficos. Integrou a diretoria do Yahoo, mas saiu deste cargo após a compra de outra empresa. Hoje, atua em sua startup focada em IA chamada Lumi Labs.
+
+## [37] Shirley Ann Jackson
+Shirley Ann Jackson. PhD em física nuclear pelo MIT, primeira mulher negra a receber o título de doutora no mesmo instituto. Primeira mulher negra a se tornar chefe da US NRC (uma comissão regulatória nuclear). Suas pesquisas permitiram avanços em telecomunicações, como o fax portátil, cabos de fibra óptica, a tecnologia que existe por trás da identificação de chamadas, entre outros.
