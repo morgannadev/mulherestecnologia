@@ -116,3 +116,9 @@ Marissa Ann Mayer possui doutorado em Ciência da Computação e seu trabalho ac
 
 ## [37] Shirley Ann Jackson
 Shirley Ann Jackson. PhD em física nuclear pelo MIT, primeira mulher negra a receber o título de doutora no mesmo instituto. Primeira mulher negra a se tornar chefe da US NRC (uma comissão regulatória nuclear). Suas pesquisas permitiram avanços em telecomunicações, como o fax portátil, cabos de fibra óptica, a tecnologia que existe por trás da identificação de chamadas, entre outros.
+
+## [38] Nina Da Hora
+Nina Da Hora. Cientista da Computação pela PUCRio. Pesquisadora na área de Pensamento Computacional. Criadora das iniciativas Computação da Hora e o Ogunhê sobre educação. Divulgadora científica e HackerAntirracista. https://www.ninadahora.dev
+
+## [39] Mária Telkes
+Mária Telkes (1990 - 1995). Cientista e inventora que trabalhou com tecnologias de energia solar. Ela então estudou na Universidade de Budapeste, graduando-se como físico-química em 1920 e PhD em 1924. Telkes é considerada uma das fundadoras dos sistemas de armazenamento térmico solar, o que lhe valeu o apelido de "Rainha do Sol".
