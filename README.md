@@ -121,4 +121,4 @@ Shirley Ann Jackson. PhD em física nuclear pelo MIT, primeira mulher negra a re
 Nina Da Hora. Cientista da Computação pela PUCRio. Pesquisadora na área de Pensamento Computacional. Criadora das iniciativas Computação da Hora e o Ogunhê sobre educação. Divulgadora científica e HackerAntirracista. https://www.ninadahora.dev
 
 ## [39] Mária Telkes
-Mária Telkes (1990 - 1995). Cientista e inventora que trabalhou com tecnologias de energia solar. Ela então estudou na Universidade de Budapeste, graduando-se como físico-química em 1920 e PhD em 1924. Telkes é considerada uma das fundadoras dos sistemas de armazenamento térmico solar, o que lhe valeu o apelido de "Rainha do Sol".
+Mária Telkes (1900 - 1995). Cientista e inventora que trabalhou com tecnologias de energia solar. Ela então estudou na Universidade de Budapeste, graduando-se como físico-química em 1920 e PhD em 1924. Telkes é considerada uma das fundadoras dos sistemas de armazenamento térmico solar, o que lhe valeu o apelido de "Rainha do Sol".
