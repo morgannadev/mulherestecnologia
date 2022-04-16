@@ -122,3 +122,9 @@ Nina Da Hora. Cientista da Computação pela PUCRio. Pesquisadora na área de Pe
 
 ## [39] Mária Telkes
 Mária Telkes (1900 - 1995). Cientista e inventora que trabalhou com tecnologias de energia solar. Ela então estudou na Universidade de Budapeste, graduando-se como físico-química em 1920 e PhD em 1924. Telkes é considerada uma das fundadoras dos sistemas de armazenamento térmico solar, o que lhe valeu o apelido de "Rainha do Sol".
+
+## [40] Mary Allen Wilkes
+Mary Allen Wilkes, advogada e programadora, conhecida por seu trabalho com o computador LINC, agora reconhecido por muitos como o primeiro "computador pessoal" do mundo. Ela quem desenvolveu o sistema operacional LAP6, presente no computador
+
+## [41] Roberta Williams
+Roberta Williams, designer de jogos de computador muito respeitada e também a jogadora mulher mais influente de seu tempo. Teve grande contribuição para os campos de design de jogos, produção, conteúdo e som. Junto ao marido, fundou a empresa On-Line Systems, que mais tarde tornou-se a Sierra. Algumas de suas criações foram King's Quest, The Dagger of Amon Ra e Phantasmagoria.
