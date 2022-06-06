@@ -131,3 +131,6 @@ Roberta Williams, designer de jogos de computador muito respeitada e também a j
 
 ## [42] Susan Kare
 Susan Kare designer que influenciou a iconografia da computação. Começou a trabalhar na Apple em 1982, criando a interface gráfica para o SO do primeiro Macintosh. Criou ícone de salvar, lixeira, alerta, relógio e paint etc. Projetou a primeira fonte com espaçamento criado para o meio digital, com o objetivo de ser tão legível quanto as letras nas páginas de livro. Hoje trabalha no Pinterest.
+
+## [43] Juliana Freitag Borin
+Juliana Borin, PhD em Ciência da Computação, escritora da revista SBC Horizontes e professora da UNICAMP. Estuda comunicação sem fio e IoT. Coordena Android Smart Girls, iniciativa que pretende estimular a formação de mulheres em STEM.
