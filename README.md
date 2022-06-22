@@ -134,3 +134,6 @@ Susan Kare designer que influenciou a iconografia da computação. Começou a tr
 
 ## [43] Juliana Freitag Borin
 Juliana Borin, PhD em Ciência da Computação, escritora da revista SBC Horizontes e professora da UNICAMP. Estuda comunicação sem fio e IoT. Coordena Android Smart Girls, iniciativa que pretende estimular a formação de mulheres em STEM.
+
+## [44] Timnit Gebru
+Timnit Gebru é uma cientista da computação que trabalha com polarização algorítmica, mineração de dados e ética para a inteligência artificia. Nascida na Etiópia, se mudou para o EUA sob asilo político, se graduou em Stanford e trabalhou para empresas como Apple, Microsoft e Google. Gebru desenvolve estudos e pesquisas visando focadas na ética da inteligência artificial.
