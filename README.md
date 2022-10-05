@@ -161,3 +161,6 @@ Pessoa cega. Produtora de conteúdo digital. Youtuber, palestrante, cantora. Tam
 
 ## [52] Erica Riello
 Pessoa surda. Trabalha como Software Engineer na empresa Uber. Tem experiência em sistemas distribuídos, experimentação e desenvolvimento de aplicativos Android. Accessibility advocate.
+
+## [53] Andreza Rocha
+CEO e fundadora da iniciativa AfrOya Tech Hub. Tem participação significativa em iniciativas voltadas à diversidade e inclusão na  tecnologia, principalmente as comunidades. 
