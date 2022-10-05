@@ -137,3 +137,27 @@ Juliana Borin, PhD em Ciência da Computação, escritora da revista SBC Horizon
 
 ## [44] Timnit Gebru
 Timnit Gebru é uma cientista da computação que trabalha com polarização algorítmica, mineração de dados e ética para a inteligência artificia. Nascida na Etiópia, se mudou para o EUA sob asilo político, se graduou em Stanford e trabalhou para empresas como Apple, Microsoft e Google. Gebru desenvolve estudos e pesquisas visando focadas na ética da inteligência artificial.
+
+## [45] Valerie Thomas
+Cientista e analista de dados, inventou o transmissor de ilusão, patenteado em 1980. Responsável pelo desenvolvimento dos sistemas de processamento de imagem em formatos de mídia digital usados nos primeiros anos do programa de satélites da NASA.
+
+## [46] Gladys Mae West
+Matemática que teve papel fundamental na criação do GPS. Programadora e diretora de um projeto de processamento de dados usados em análises de satélites.
+
+## [47] Marian Rogers Croak
+VP de engenharia do Google. Foi VP de pesquisa e desenvolvimento da AT&T. Foi introduzida no Hall da Fama dos Inventores por sua patente sobre a tecnologia VoIP.
+
+## [48] Victória Corotto
+Travesti, ativista LGBTQIAP+, desenvolvedora front-end e também atua com gestão de pessoas no projeto educaTRANSforma, onde começou sua carreira sendo uma das primeiras alunas.
+
+## [49] Ana Gouvêa
+Pessoa cega envolvida com diversidade e acessibilidade. Trabalha em prol da acessibilidade na sua rotina no PicPay como Accessibility Program Manager. Formou-se como UX Writing. Voluntária na Ladies That UX.
+
+## [50] Joyce Rocha
+Pessoa autista neurodivergente. UX Research e Designer de Acessibilidade. Consultora em acessibilidade digital e ativista pelos direitos da comunidade.
+
+## [51] Geisa Farini
+Pessoa cega. Produtora de conteúdo digital. Youtuber, palestrante, cantora. Também atua como Engenheira de Software no Itaú.
+
+## [52] Erica Riello
+Pessoa surda. Trabalha como Software Engineer na empresa Uber. Tem experiência em sistemas distribuídos, experimentação e desenvolvimento de aplicativos Android. Accessibility advocate.
