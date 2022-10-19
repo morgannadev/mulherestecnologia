@@ -164,3 +164,12 @@ Pessoa surda. Trabalha como Software Engineer na empresa Uber. Tem experiência 
 
 ## [53] Andreza Rocha
 CEO e fundadora da iniciativa AfrOya Tech Hub. Tem participação significativa em iniciativas voltadas à diversidade e inclusão na  tecnologia, principalmente as comunidades. 
+
+## [54] Rebecca Parsons
+Em 1999 foi pesquisadora e professora universitária em ciência da computação.
+
+Em 2007 se tornou CTO, responsável por conduzir a excelência em tecnologia da [Thoughtworks](https://www.thoughtworks.com/pt-br/). Forte defensora da diversidade e inclusão na indústria, especialmente aumentando o número de mulheres na codificação. Fez parte dos conselhos da CodeChix, AnitaB.org e da Agile Alliance, e foi consultora da [Women Who Code](https://www.womenwhocode.com/).
+
+Fui coautora de vários livros, incluindo “Domain-Specific Languages”, “The Thoughtworks Anthology” e “Building Evolutionary Architectures”.
+
+Em 2018, recebeu o prestigioso [Prêmio Abie de Liderança Técnica](https://anitab.org/profile/meet-dr-rebecca-parsons-technical-leadership-abie-award-winner/), apresentado pela AnitaB.org, que homenageia mulheres que lideraram ou desenvolveram um produto, processo ou inovação que teve um impacto notável nos negócios ou na sociedade.
