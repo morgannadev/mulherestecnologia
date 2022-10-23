@@ -164,3 +164,6 @@ Pessoa surda. Trabalha como Software Engineer na empresa Uber. Tem experiência 
 
 ## [53] Andreza Rocha
 CEO e fundadora da iniciativa AfrOya Tech Hub. Tem participação significativa em iniciativas voltadas à diversidade e inclusão na  tecnologia, principalmente as comunidades. 
+
+## [54] Angelica Ross
+Angelica Ross é uma atriz famosa por seus papéis em Pose e American Horror Story, porém além de suas habilidades de atuação ela é uma programadora autodidata. Em 2014, ela fundou a TransTech Social Enterprises que é uma incubadora de Talentos LGBTQ com foco em capacitar economicamente as pessoas transgênerona sociedade. Os membros da TransTech também têm acesso à treinamento, workshops, equipamentos profissionais, espaço de escritório, orientação e oportunidades de trabalho, ou seja, todos os recursos que podem ajudá-los a construir uma carreira em tecnologia. https://missross.com/about/
