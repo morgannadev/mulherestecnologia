@@ -174,3 +174,6 @@ Responsável por conduzir a excelência em tecnologia da [Thoughtworks](https://
 ## [56] Roberta Arcoverde
 Roberta Arcoverde é Cientista da Computação formada pela UFPE e Diretora de Engenharia na Stack Overflow em 2022 gerenciando o time do qual fez parte como desenvolvedora durante quase 8 anos. Ela também é podcaster e tem várias participações em podcasts.
 https://rla4.com/
+
+## [57] Katherine Johnson
+Katherine Johnson, além de concluir aos 18 anos as suas primeiras graduações, em Matemática e Francês, ainda foi a primeira mulher negra a ingressar em um curso de pós-graduação na universidade West Virginia State. Suas ideias fizeram com que trabalhasse na NACA, um órgão que, futuramente, viria a se tornar a NASA. Uma de suas principais contribuições foi o cálculo de trajetória de voo para a missão de primeiro pouso na lua, feito pelo Apolo 11. Uma parte de sua história pode ser assistida no filme “Estrelas Além do Tempo”.
