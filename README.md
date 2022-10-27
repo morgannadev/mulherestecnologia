@@ -165,5 +165,15 @@ Pessoa surda. Trabalha como Software Engineer na empresa Uber. Tem experiência 
 ## [53] Andreza Rocha
 CEO e fundadora da iniciativa AfrOya Tech Hub. Tem participação significativa em iniciativas voltadas à diversidade e inclusão na  tecnologia, principalmente as comunidades. 
 
-## [54] Katherine Johnson
+## [54] Angelica Ross
+Angelica Ross é uma atriz famosa por seus papéis em Pose e American Horror Story, porém além de suas habilidades de atuação ela é uma programadora autodidata. Em 2014, ela fundou a TransTech Social Enterprises que é uma incubadora de Talentos LGBTQ com foco em capacitar economicamente as pessoas transgênerona sociedade. Os membros da TransTech também têm acesso à treinamento, workshops, equipamentos profissionais, espaço de escritório, orientação e oportunidades de trabalho, ou seja, todos os recursos que podem ajudá-los a construir uma carreira em tecnologia. https://missross.com/about/
+
+## [55] Rebecca Parsons
+Responsável por conduzir a excelência em tecnologia da [Thoughtworks](https://www.thoughtworks.com/pt-br/). Forte defensora da diversidade e inclusão na indústria, especialmente aumentando o número de mulheres na codificação. Fez parte dos conselhos da CodeChix, AnitaB.org e da Agile Alliance, e foi consultora da [Women Who Code](https://www.womenwhocode.com/).
+
+## [56] Roberta Arcoverde
+Roberta Arcoverde é Cientista da Computação formada pela UFPE e Diretora de Engenharia na Stack Overflow em 2022 gerenciando o time do qual fez parte como desenvolvedora durante quase 8 anos. Ela também é podcaster e tem várias participações em podcasts.
+https://rla4.com/
+
+## [57] Katherine Johnson
 Katherine Johnson, além de concluir aos 18 anos as suas primeiras graduações, em Matemática e Francês, ainda foi a primeira mulher negra a ingressar em um curso de pós-graduação na universidade West Virginia State. Suas ideias fizeram com que trabalhasse na NACA, um órgão que, futuramente, viria a se tornar a NASA. Uma de suas principais contribuições foi o cálculo de trajetória de voo para a missão de primeiro pouso na lua, feito pelo Apolo 11. Uma parte de sua história pode ser assistida no filme “Estrelas Além do Tempo”.
