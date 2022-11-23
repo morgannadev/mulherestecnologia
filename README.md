@@ -177,3 +177,6 @@ https://rla4.com/
 
 ## [57] Katherine Johnson
 Katherine Johnson, além de concluir aos 18 anos as suas primeiras graduações, em Matemática e Francês, ainda foi a primeira mulher negra a ingressar em um curso de pós-graduação na universidade West Virginia State. Suas ideias fizeram com que trabalhasse na NACA, um órgão que, futuramente, viria a se tornar a NASA. Uma de suas principais contribuições foi o cálculo de trajetória de voo para a missão de primeiro pouso na lua, feito pelo Apolo 11. Uma parte de sua história pode ser assistida no filme “Estrelas Além do Tempo”.
+
+## [58] Camila Laranjeira
+Mila Laranjeira faz douturado de Ciência da Computação pela UFMG (Universidade Federal de Minas Gerais), é divulgadora ciêntífica no canal [Peixe Babel](https://www.youtube.com/CanalPeixeBabel), em que fala sobre Inteligência artificial, linguagens de programação e tudo que envolve o mundo tecnológica com a Vivi Mota, e também cria conteúdo e apresenta alguns quadros no [Nerdologia](https://www.youtube.com/watch?v=3ySZtemMZsY&ab_channel=Nerdologia), apresentando a tecnologia com conceitos do cotidiano e relacionando com temas sociais.
