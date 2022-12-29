@@ -180,3 +180,9 @@ Katherine Johnson, além de concluir aos 18 anos as suas primeiras graduações,
 
 ## [58] Camila Laranjeira
 Mila Laranjeira faz douturado de Ciência da Computação pela UFMG (Universidade Federal de Minas Gerais), é divulgadora ciêntífica no canal [Peixe Babel](https://www.youtube.com/CanalPeixeBabel), em que fala sobre Inteligência artificial, linguagens de programação e tudo que envolve o mundo tecnológica com a Vivi Mota, e também cria conteúdo e apresenta alguns quadros no [Nerdologia](https://www.youtube.com/watch?v=3ySZtemMZsY&ab_channel=Nerdologia), apresentando a tecnologia com conceitos do cotidiano e relacionando com temas sociais.
+
+## [59] Kathleen Booth
+Kathleen Hylda Valerie Booth (1922 – 2022), cientista da computação e matemática que escreveu a primeira linguagem assembly e projetou o assembler e o autocode para os primeiros sistemas de computador no Birkbeck College, Universidade de Londres. Ajudou a projetar três máquinas diferentes, incluindo o ARC (Automatic Relay Calculator), SEC (Simple Electronic Computer) e APE(X)C. Chegou também a trabalhar como pesquisadora, professora e publicou seus materiais com artigos e também um livro.
+
+## [60] Loiane Groner
+Loiane Groner possui mais de 10 anos de experiência em TI. Já palestrou por vários eventos no Brasil e Estados Unidos. Trabalha como desenvolvedora e analista nos EUA, está sempre compartilhando conhecimento, faz vídeos e diversos materiais gratuitos sobre Angular, Java e muitos outros assuntos. Além disso, é autora de vários livros e participa ativamente dessas comunidades. É possível acompanhar seu conteúdo pelo site loiane.training.
