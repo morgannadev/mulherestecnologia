@@ -186,3 +186,9 @@ Kathleen Hylda Valerie Booth (1922 – 2022), cientista da computação e matem�
 
 ## [60] Loiane Groner
 Loiane Groner possui mais de 10 anos de experiência em TI. Já palestrou por vários eventos no Brasil e Estados Unidos. Trabalha como desenvolvedora e analista nos EUA, está sempre compartilhando conhecimento, faz vídeos e diversos materiais gratuitos sobre Angular, Java e muitos outros assuntos. Além disso, é autora de vários livros e participa ativamente dessas comunidades. É possível acompanhar seu conteúdo pelo site [loiane.training](https://loiane.training/).
+
+## [61] Muriel Tramis
+
+## [62] Alice Washington
+
+## [63] Rebecca Heineman
