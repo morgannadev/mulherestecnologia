@@ -1,6 +1,6 @@
 # Mulheres no mundo da tecnologia :computer:
 Olá, mundo!
-Eu sou a Morganna, sou desenvolvedora backend e estou fazendo lives na [twitch](https://www.twitch.tv/morgannadev) sobre programação e outras coisas. Faço parte da equipe [Feministech](https://www.twitch.tv/team/livecodergirls).
+Eu sou a Morganna, sou desenvolvedora backend, developer relations e tech writer e estou fazendo lives na [twitch](https://www.twitch.tv/morgannadev) sobre programação e outras coisas. Faço parte da equipe [Feministech](https://www.twitch.tv/team/livecodergirls).
 Em cada uma das nossas lives, iremos conhecer uma mulher do mundo da tecnologia. E, também, vamos registrar um resumo de suas histórias aqui.
 
 ## [0] Ada Lovelace
@@ -188,9 +188,13 @@ Kathleen Hylda Valerie Booth (1922 – 2022), cientista da computação e matem�
 Loiane Groner possui mais de 10 anos de experiência em TI. Já palestrou por vários eventos no Brasil e Estados Unidos. Trabalha como desenvolvedora e analista nos EUA, está sempre compartilhando conhecimento, faz vídeos e diversos materiais gratuitos sobre Angular, Java e muitos outros assuntos. Além disso, é autora de vários livros e participa ativamente dessas comunidades. É possível acompanhar seu conteúdo pelo site [loiane.training](https://loiane.training/).
 
 ## [61] Muriel Tramis
+Muriel Tramis, nascida em 1958, é designer de videogame. Foi a primeira mulher negra designer de jogos. Escreveu e dirigiu diversos jogos de aventura como Méwilo, Freedom: Rebels in the Darkness, Geisha, Fascination, Lost in Time e Urban Runner na Coktel Vision. Co-criou a série Gobliiins com Pierre Gilhodes. Desde 2003 dirige a Avantilles, especialista em aplicações 3D em tempo real para a web.
 
 ## [62] Alice Washington
+Responsável por instalar placas de circuito impresso em máquinas de fliperama.
 
 ## [63] Rebecca Heineman
+Rebecca Ann Heineman é uma designer e programadora de videogames. Considerada pioneira no mundo dos jogos. Foi membro fundadora das empresas de videogame Interplay Productions, Logicware, Contraband Entertainment e Olde Sküül. Ela é diretora executiva da Olde Sküül desde 2013.
 
 ## [64] Cynthia Zanoni
+Teve o primeiro contato com a tecnologia aos 8 anos. Aos 14 anos, ganhou os primeiros livros e CDs sobre sistema operacional, montagem de computadores e programação. Hoje é fundadora da organização WoMakersCode. Trabalha na Microsoft como Partner Technology Strategist e Cloud Advocate. É palestrante sobre tecnologia e inovação, também ativa na comunidade há vários anos.
