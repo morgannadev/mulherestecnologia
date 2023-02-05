@@ -192,3 +192,5 @@ Loiane Groner possui mais de 10 anos de experiência em TI. Já palestrou por v�
 ## [62] Alice Washington
 
 ## [63] Rebecca Heineman
+
+## [64] Cynthia Zanoni
