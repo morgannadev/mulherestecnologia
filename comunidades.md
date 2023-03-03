@@ -131,3 +131,7 @@ Links: https://girlswhocode.com/
 ## [32] iamtheCODE
 O iamtheCODE visa capacitar 1 milhão de mulheres e meninas programadoras até 2030.
 Links: https://www.iamthecode.org/
+
+## [33] Test Girls
+A comunidade Test Girls tem a missão de oferecer às mulheres um espaço seguro para aprendizado, crescimento e networking. Carreira, tecnologia e qualidade.
+Links: https://testgirls.com.br/
