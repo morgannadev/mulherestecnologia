@@ -123,3 +123,11 @@ Links: https://www.laboratoria.la/br
 ## [30] Mulheres de Produto
 Comunidade para todas as mulheres de produto e tech. Conteúdo sobre produto feito por mulheres para todes!
 Links: https://linkme.bio/mulheresdeproduto
+
+## [31] Girls Who Code
+Girls Who Code tem a missão de fechar a lacuna de gênero na tecnologia e mudar a imagem de como uma pessoa programadora se parece e faz.
+Links: https://girlswhocode.com/
+
+## [32] iamtheCODE
+O iamtheCODE visa capacitar 1 milhão de mulheres e meninas programadoras até 2030.
+Links: https://www.iamthecode.org/
