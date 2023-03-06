@@ -143,3 +143,7 @@ Links: https://www.cloudgirls.com.br/
 ## [35] Ladies that UX
 Uma comunidade de mulheres em UX que se apoiam, ultrapassam os limites da UX e promovem habilidades e talentos. \
 Links: https://ladiesthatux.com/
+
+## [36] Manas Digitais
+Projeto de extensão com objetivo de despertar o interesse de aprendizes de todos os gêneros do Ensino Fundamental e Médio na Região Metropolitana de Belém do Pará pelas carreiras em Ciências Exatas, visando principalmente a equidade de gênero em cursos de Computação. \
+Links: https://www.manasdigitais.com/
