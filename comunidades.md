@@ -147,3 +147,11 @@ Links: https://ladiesthatux.com/
 ## [36] Manas Digitais
 Projeto de extensão com objetivo de despertar o interesse de aprendizes de todos os gêneros do Ensino Fundamental e Médio na Região Metropolitana de Belém do Pará pelas carreiras em Ciências Exatas, visando principalmente a equidade de gênero em cursos de Computação. \
 Links: https://www.manasdigitais.com/
+
+## [37] AnitaB.org
+Na AnitaB.org, vislumbramos um futuro onde as pessoas que imaginam e constroem tecnologia espelham as pessoas e sociedades para as quais a constroem. Conectamos, inspiramos e orientamos mulheres em computação e organizações que veem a inovação tecnológica como um imperativo estratégico. Nossa empresa social apoia mulheres em áreas técnicas, bem como as organizações que as empregam e as instituições acadêmicas que treinam a próxima geração. Uma lista completa de programas ajuda mulheres e tecnólogos não-binários a crescer, aprender e desenvolver seu maior potencial. \
+Links: https://anitab.org/
+
+## [38] Lesbians Who Tech
+Lesbians Who Tech é uma comunidade de mulheres LGBTQ, não-binárias e pessoas trans dentro e ao redor da tecnologia (e as pessoas que nos apoiam). \
+Links: https://lesbianswhotech.org/
