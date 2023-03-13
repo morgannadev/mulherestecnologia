@@ -205,5 +205,10 @@ Foi uma criptoanalista e autora americana que decifrou códigos em ambas as guer
 ## [66] Nina Silva
 Executiva e especialista em tecnologia e inovação. Uma das 100 pessoas afrodescendentes com menos de 40 anos mais influentes do mundo (chancelada pela ONU). Fundou o Movimento Black Money e D’Black Bank tendo se especializado em finanças, negócios e web3.0. É investidora anjo, palestrante e empresária. Em 2021 foi eleita a Mulher Mais Disruptiva do mundo pela Women in Tech Global Awards.
 
+## [67] Camila Achutti
+Formada em Ciência da Computação pela USP e mestre pela mesma instituição, estagiou no Google na Califórnia e trabalhou para a Iridescent Learning, ONG americana de educação a distância. Voltou ao Brasil para mostrar o poder de transformação da tecnologia e do empreendedorismo. CEO da Mastertech, escola de tecnologia. Fundou a Somas, uma ONG de pesquisa sobre tecnologia nas práticas educacionais, com foco em publicações de domínio público.
+
+
+
 <!-- Alice Washington
 Responsável por instalar placas de circuito impresso em máquinas de fliperama. -->
