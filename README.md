@@ -198,3 +198,6 @@ Teve o primeiro contato com a tecnologia aos 8 anos. Aos 14 anos, ganhou os prim
 
 ## [64] Alice Washington
 Responsável por instalar placas de circuito impresso em máquinas de fliperama.
+
+## [65] Mary Ann Horton
+Pioneira da Usenet e da Internet. Contribuiu para o Berkeley UNIX, incluindo o editor vi e o banco de dados terminfo. Criou a primeira ferramenta de anexo binário de e-mail. Solicitou (e conseguiu) a primeira linguagem inclusiva para transgêneros adicionada à Política de Igualdade de Emprego em uma grande empresa americana. É cientista da computação, educadora e ativista transgênero.
