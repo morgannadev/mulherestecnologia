@@ -208,6 +208,9 @@ Executiva e especialista em tecnologia e inovação. Uma das 100 pessoas afrodes
 ## [67] Camila Achutti
 Formada em Ciência da Computação pela USP e mestre pela mesma instituição, estagiou no Google na Califórnia e trabalhou para a Iridescent Learning, ONG americana de educação a distância. Voltou ao Brasil para mostrar o poder de transformação da tecnologia e do empreendedorismo. CEO da Mastertech, escola de tecnologia. Fundou a Somas, uma ONG de pesquisa sobre tecnologia nas práticas educacionais, com foco em publicações de domínio público.
 
+## [68] Silvia Coelho
+Paraense, mãe, Mestra e graduada em Engenharia Elétrica, com vasta atuação em pesquisa e desenvolvimento de software para celulares, treinada na LG-Coreia do Sul. Após quase 10 anos de pausa na carreira, decidiu retornar ao mercado de tecnologia. Fundou a iniciativa Elas Programam para mudar o gap de gênero e diversidade. CTO da Forum Hub. LinkedIn Top Voices 2022 e LinkedIn Creator.
+
 
 
 <!-- Alice Washington
