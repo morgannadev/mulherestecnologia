@@ -196,14 +196,14 @@ Rebecca Ann Heineman é uma designer e programadora de videogames. Considerada p
 ## [63] Cynthia Zanoni
 Teve o primeiro contato com a tecnologia aos 8 anos. Aos 14 anos, ganhou os primeiros livros e CDs sobre sistema operacional, montagem de computadores e programação. Hoje é fundadora da organização WoMakersCode. Trabalha na Microsoft como Partner Technology Strategist e Cloud Advocate. É palestrante sobre tecnologia e inovação, também ativa na comunidade há vários anos.
 
-## [64] Alice Washington
-Responsável por instalar placas de circuito impresso em máquinas de fliperama.
-
-## [65] Mary Ann Horton
+## [64] Mary Ann Horton
 Pioneira da Usenet e da Internet. Contribuiu para o Berkeley UNIX, incluindo o editor vi e o banco de dados terminfo. Criou a primeira ferramenta de anexo binário de e-mail. Solicitou (e conseguiu) a primeira linguagem inclusiva para transgêneros adicionada à Política de Igualdade de Emprego em uma grande empresa americana. É cientista da computação, educadora e ativista transgênero.
 
-## [66] Elizebeth Smith Friedman
+## [65] Elizebeth Smith Friedman
 Foi uma criptoanalista e autora americana que decifrou códigos em ambas as guerras mundiais e ajudou a resolver casos de contrabando internacional durante a Lei Seca. Foi reconhecida como "a primeira mulher criptoanalista da América".
 
-## [67] Nina Silva
+## [66] Nina Silva
 Executiva e especialista em tecnologia e inovação. Uma das 100 pessoas afrodescendentes com menos de 40 anos mais influentes do mundo (chancelada pela ONU). Fundou o Movimento Black Money e D’Black Bank tendo se especializado em finanças, negócios e web3.0. É investidora anjo, palestrante e empresária. Em 2021 foi eleita a Mulher Mais Disruptiva do mundo pela Women in Tech Global Awards.
+
+<!-- Alice Washington
+Responsável por instalar placas de circuito impresso em máquinas de fliperama. -->
