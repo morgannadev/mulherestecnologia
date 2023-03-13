@@ -204,3 +204,6 @@ Pioneira da Usenet e da Internet. Contribuiu para o Berkeley UNIX, incluindo o e
 
 ## [66] Elizebeth Smith Friedman
 Foi uma criptoanalista e autora americana que decifrou códigos em ambas as guerras mundiais e ajudou a resolver casos de contrabando internacional durante a Lei Seca. Foi reconhecida como "a primeira mulher criptoanalista da América".
+
+## [67] Nina Silva
+Executiva e especialista em tecnologia e inovação. Uma das 100 pessoas afrodescendentes com menos de 40 anos mais influentes do mundo (chancelada pela ONU). Fundou o Movimento Black Money e D’Black Bank tendo se especializado em finanças, negócios e web3.0. É investidora anjo, palestrante e empresária. Em 2021 foi eleita a Mulher Mais Disruptiva do mundo pela Women in Tech Global Awards.
