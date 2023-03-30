@@ -154,4 +154,8 @@ Links: https://anitab.org/
 
 ## [38] Lesbians Who Tech
 Lesbians Who Tech é uma comunidade de mulheres LGBTQ, não-binárias e pessoas trans dentro e ao redor da tecnologia (e as pessoas que nos apoiam). \
-Links: https://lesbianswhotech.org/
+Links: https://lesbianswhotech.org/ \
+
+## [39] Café com Ellas
+Grupo para impulsionar carreiras femininas, mais especificamente, carreiras de mulheres com deficiência. Um espaço de apoio e troca para alcançarmos mais oportunidades no mercado de trabalho. Queremos promover uma rede de networking e iniciativas para apoiar carreiras de mulheres com deficiência. \
+Links: https://www.instagram.com/redecafecomellas/
