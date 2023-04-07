@@ -211,7 +211,8 @@ Formada em Ciência da Computação pela USP e mestre pela mesma instituição, 
 ## [68] Silvia Coelho
 Paraense, mãe, Mestra e graduada em Engenharia Elétrica, com vasta atuação em pesquisa e desenvolvimento de software para celulares, treinada na LG-Coreia do Sul. Após quase 10 anos de pausa na carreira, decidiu retornar ao mercado de tecnologia. Fundou a iniciativa Elas Programam para mudar o gap de gênero e diversidade. CTO da Forum Hub. LinkedIn Top Voices 2022 e LinkedIn Creator.
 
-
+## [69] Angie Jones
+Java Champion, GitHub Star, arquiteta de automação, palestrante internacional e diretora sênior de developer relations da Applitools. Lidera a Test Automation University, já trabalhou em várias empresas, incluindo Twitter e IBM, e é inventora de 27 patentes. Também é proprietária e desenvolvedora do Diva Chix.
 
 <!-- Alice Washington
 Responsável por instalar placas de circuito impresso em máquinas de fliperama. -->
