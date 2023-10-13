@@ -214,5 +214,11 @@ Paraense, mãe, Mestra e graduada em Engenharia Elétrica, com vasta atuação e
 ## [69] Angie Jones
 Java Champion, GitHub Star, arquiteta de automação, palestrante internacional e diretora sênior de developer relations da Applitools. Lidera a Test Automation University, já trabalhou em várias empresas, incluindo Twitter e IBM, e é inventora de 27 patentes. Também é proprietária e desenvolvedora do Diva Chix.
 
+## [70] Latanya Sweeney
+Latanya Sweeney é professora de Prática de Governo e Tecnologia em Harvard, diretora e fundadora do Public Interest Tech Lab, editora-chefe da revista Technology Science, diretora e fundadora do Data Privacy Lab, ex-diretora de tecnologia da Comissão Federal de Comércio dos EUA e professora de ciência da computação, tecnologia e política na Carnegie Mellon University. Possui 3 patentes, mais de 100 publicações acadêmicas, foi pioneira no campo conhecido como privacidade de dados. Seu trabalho mais recente centra-se em ferramentas tecnológicas para fortalecer eleições, análises de plataformas de redes sociais e novos paradigmas de privacidade no mundo real. 
+
+## [71] Fei-Fei Li
+Fei-Fei Li é cientista e professora na Universidade Stanford, onde também é co-diretora de institutos de pesquisa sobre inteligência artificial, aprendizado de máquina, deep learning, visão computacional e neurociência cognitiva. Ela é uma das principais pesquisadoras no ramo de IA, tendo liderado a iniciativa ImageNet, um grande conjunto de dados de visão computacional. Em 2019, foi reconhecida como uma das 100 Mulheres mais importantes do mundo pela BBC.
+
 <!-- Alice Washington
 Responsável por instalar placas de circuito impresso em máquinas de fliperama. -->
