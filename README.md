@@ -235,6 +235,6 @@ Carolina Guimarães é uma jovem prodígio que desde os 8 anos tem participado d
 <!-- Alice Washington
 Responsável por instalar placas de circuito impresso em máquinas de fliperama. -->
 
-## [72] Marissa Mayer
-Marissa Ann Mayer é uma cientista da computação estadunidense graduada pela Universidade de Stanford, executiva de tecnologia da informação e co-fundadora do Lumi Labs. Foi vice-presidente de serviços geográficos e locais do Google. Em 16 de julho de 2012, Mayer foi nomeada presidente e diretora executiva do Yahoo!.
+## [76] Kimberly Bryant
+Fundadora e CEO da Black Girls Code, se destacou em ciências e matemática quando criança e ganhou uma bolsa de estudos na Universidade Vanderbilt. Bacharel em Engenharia Elétrica com especializações em Matemática e Ciência da Computação. Por mais de duas décadas, Bryant assumiu papéis de liderança técnica em várias empresas farmacêuticas e biotecnológicas, incluindo Novartis e Merck.Fundou a Black Girls Code em 2011, uma organização sem fins lucrativos localizada em São Francisco que expõe meninas negras e não-brancas entre 7 e 17 anos a matérias de STEM. Aqui, as meninas podem aprender habilidades em alta demanda no mercado de tecnologia enquanto pensam sobre o que querem ser quando crescerem. A organização tem o objetivo de ensinar 1 milhão de meninas negras a programar até 2040. Hoje, a organização tem 16 unidades nos Estados Unidos e uma unidade em Joanesburgo, na África do Sul.
 
