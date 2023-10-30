@@ -220,5 +220,14 @@ Latanya Sweeney é professora de Prática de Governo e Tecnologia em Harvard, di
 ## [71] Fei-Fei Li
 Fei-Fei Li é cientista e professora na Universidade Stanford, onde também é co-diretora de institutos de pesquisa sobre inteligência artificial, aprendizado de máquina, deep learning, visão computacional e neurociência cognitiva. Ela é uma das principais pesquisadoras no ramo de IA, tendo liderado a iniciativa ImageNet, um grande conjunto de dados de visão computacional. Em 2019, foi reconhecida como uma das 100 Mulheres mais importantes do mundo pela BBC.
 
+## [72] Edith Ranzini
+Engenheira formada pela USP, professora da PUC - SP e da POLI - USP, compôs a equipe responsável pela criação do primeiro computador brasileiro, o Patinho Feio, em 1972.
+
+## [73] Dina Feigenbaum
+Primeira Doutora Brasileira em Computação formada pelo PESC - UFRJ, em 1978. Foi professora associada no PESC, onde criou a linha de ensino e pesquisa Informática e Sociedade.
+
+## [74] Dilma Menezes
+PhD em Ciência da Computação e pesquisadora na área de cloud computing. Recebeu o prêmio ACM Distinguished Scientist, que reconhece profissionais que contribuíram de forma significativa no campo da computação.
+
 <!-- Alice Washington
 Responsável por instalar placas de circuito impresso em máquinas de fliperama. -->
