@@ -229,5 +229,8 @@ Primeira Doutora Brasileira em Computação formada pelo PESC - UFRJ, em 1978. F
 ## [74] Dilma Menezes
 PhD em Ciência da Computação e pesquisadora na área de cloud computing. Recebeu o prêmio ACM Distinguished Scientist, que reconhece profissionais que contribuíram de forma significativa no campo da computação.
 
+## [75] Carolina Guimarães
+Carolina Guimarães é uma jovem prodígio que desde os 8 anos tem participado de olimpíadas científicas, representando o Brasil em competições internacionais de astronomia. Durante o ensino médio, criou a plataforma de ensino "Cálculo Zero", que atraiu 20 mil estudantes em todo o Brasil. Além disso, desenvolveu um software para uma bicicleta ergométrica geradora de energia e se destacou em projetos de experimentos em túnel de vento e simulações digitais, chegando a apresentar um artigo em uma conferência de engenharia mecânica na Argentina. Atualmente, Carolina estuda Ciência da Computação e Matemática na Universidade Yale, nos Estados Unidos, e tem planos de usar a tecnologia para criar um impacto positivo na educação quando retornar ao Brasil.
+
 <!-- Alice Washington
 Responsável por instalar placas de circuito impresso em máquinas de fliperama. -->
