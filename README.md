@@ -222,3 +222,7 @@ Fei-Fei Li é cientista e professora na Universidade Stanford, onde também é c
 
 <!-- Alice Washington
 Responsável por instalar placas de circuito impresso em máquinas de fliperama. -->
+
+## [72] Marissa Mayer
+Marissa Ann Mayer é uma cientista da computação estadunidense graduada pela Universidade de Stanford, executiva de tecnologia da informação e co-fundadora do Lumi Labs. Foi vice-presidente de serviços geográficos e locais do Google. Em 16 de julho de 2012, Mayer foi nomeada presidente e diretora executiva do Yahoo!.
+
