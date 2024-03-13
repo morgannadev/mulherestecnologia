@@ -1,7 +1,7 @@
 # Comunidades, ações e iniciativas de tecnologia para meninas e mulheres :smiling_face_with_three_hearts:
 
 ## [0] Feministech
-A Feministech é um grupo de pessoas que se identificam no feminino e não-bináries que produzem, consumem e compartilham conteúdo sobre tecnologia, em um ambiente diverso e inclusivo. \
+A Feministech é uma comunidade feminista de mulheres cis e trans e pessoas não-binárias que produzem, consomem e compartilham conteúdo sobre tecnologia, enquanto constroem uma comunidade diversa e inclusiva. \
 Links: https://feministech.com.br/
 
 ## [1] Devs JavaGirl
