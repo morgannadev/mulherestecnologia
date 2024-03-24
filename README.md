@@ -1,4 +1,7 @@
 # Mulheres no mundo da tecnologia :computer:
+
+<img src="https://i.imgur.com/3SZpvJn.png" alt="Imagem com diversos desenhos de mulheres diversas e diferentes."></img>
+
 Olá, mundo!
 Eu sou a Morganna, sou desenvolvedora backend, developer relations e tech writer e estou fazendo lives na [twitch](https://www.twitch.tv/morgannadev) sobre programação e outras coisas. Faço parte da equipe [Feministech](https://www.twitch.tv/team/livecodergirls).
 Em cada uma das nossas lives, iremos conhecer uma mulher do mundo da tecnologia. E, também, vamos registrar um resumo de suas histórias aqui.
