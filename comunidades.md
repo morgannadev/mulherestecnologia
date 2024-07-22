@@ -159,3 +159,7 @@ Links: https://lesbianswhotech.org/ \
 ## [39] Café com Ellas
 Grupo para impulsionar carreiras femininas, mais especificamente, carreiras de mulheres com deficiência. Um espaço de apoio e troca para alcançarmos mais oportunidades no mercado de trabalho. Queremos promover uma rede de networking e iniciativas para apoiar carreiras de mulheres com deficiência. \
 Links: https://www.instagram.com/redecafecomellas/
+
+## [40] Cantinho das QAs
+Somos uma comunidade de mulheres, nosso objetivo é proporcionar um ambiente seguro e acolhedor onde mulheres possam se apoiar, aprender e compartilhar suas experiências. 
+Links: https://www.linkedin.com/company/cantinhodasqas/ // https://www.youtube.com/@CantinhodasQAs
