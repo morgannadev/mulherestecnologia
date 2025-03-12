@@ -163,3 +163,10 @@ Links: https://www.instagram.com/redecafecomellas/
 ## [40] Cantinho das QAs
 Somos uma comunidade de mulheres, nosso objetivo é proporcionar um ambiente seguro e acolhedor onde mulheres possam se apoiar, aprender e compartilhar suas experiências. 
 Links: https://www.linkedin.com/company/cantinhodasqas/ // https://www.youtube.com/@CantinhodasQAs
+
+## [41] Mulheres em Dados
+Rede de mulheres que atuam e/ou tem interesse no ecossistema de dados e tecnologia.
+Links: https://mulheresemdados.com
+O grupo tem o objetivo de promover trocas, mentorias, conversas, ajudas, workshops, suporte e amparo a todas as mulheres maravilhosas e guerreiras da área para que, JUNTAS, consigamos reverter a desigualdade de gênero exacerbada em dados e tecnologia.
+mulheresemdados.com
+🔗 Acesse para mais dicas, vagas, conteúdos e a comunidade no Discord exclusiva para mulheres: linkedin (https://lnkd.in/dUEymWsU)
