@@ -170,3 +170,7 @@ Links: https://mulheresemdados.com
 O grupo tem o objetivo de promover trocas, mentorias, conversas, ajudas, workshops, suporte e amparo a todas as mulheres maravilhosas e guerreiras da área para que, JUNTAS, consigamos reverter a desigualdade de gênero exacerbada em dados e tecnologia.
 mulheresemdados.com
 🔗 Acesse para mais dicas, vagas, conteúdos e a comunidade no Discord exclusiva para mulheres: linkedin (https://lnkd.in/dUEymWsU)
+
+## [42] Compiladoras de Cafeína
+Somos uma comunidade que acolhe pessoas iniciantes em TI, com foco em grupos minoritários. 
+Links: https://www.linkedin.com/company/comunidadecafeina/
