@@ -174,3 +174,8 @@ mulheresemdados.com
 ## [42] Compiladoras de Cafeína
 Somos uma comunidade que acolhe pessoas iniciantes em TI, com foco em grupos minoritários. 
 Links: https://www.linkedin.com/company/comunidadecafeina/
+
+## [43] Cumbuca Dev
+Comunidade tem como objetivo ser um ambiente acolhedor e inclusivo para grupos minoritários, com objetivo de romper o ciclo da falta de experiência em tecnologia, promovendo o aprendizado e propicionando uma visão clara e prática de como são os trabalhos na área por meio de projetos de Código Aberto. Reune indivíduos com experiências diversas e promovendo uma troca significativa de conhecimento, desde pessoas iniciantes até aquelas em desenvolvimento profissional, todas encontram apoio e inspiração, fortalecendo sua jornada por meio da colaboração.
+
+Link: https://cumbuca.dev/ 
