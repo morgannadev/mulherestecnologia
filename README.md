@@ -246,3 +246,6 @@ Camila Maia é uma engenheira backend brasileira, defensora ativa do open source
 
 ## [78] Fabi Canedo Yugar 
 Fabi Yugar é uma das mulheres mais engajadas em comunidades e eventos tech pelas Américas. Palavras da própria "Me dedico a estudar continuamente, além das aulas da faculdade, participo de meetups. Também ajudei a inserir outras mulheres na área de tecnologia atuando como monitora, voluntária e líder da Caravana da Prefs, que levou mais de 700 mulheres à Campus Party 2019. Coordenei a trilha de Acessibilidade,Diversidade e Testes no TheDevelopersConference, maior evento de tecnologia da América Latina. Além da tecnologia, tenho outros amores, como assistir TEDTalks, espaço onde atuei em uma posição de liderança, sendo Coordenadora do TEDxSãoPaulo." 
+
+## [79] Kizzy Terra
+Cientista de Dados e co-criadora do canal Programação Dinâmica no YouTube. Bacharel em Engenharia de Computação pelo Instituto Militar de Engenharia (IME). Mestre em Matemática Aplicada pela FGV-RJ. e doutoranda no TIDD(PUC-SP). Além disso, trabalhou como analista de dados de utilidade pública na Fundação Getulio Vargas e no ‪Instituto de Pesquisa Econômica Aplicada, e foi cientista de dados sênior na Cyberlabs. 
