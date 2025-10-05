@@ -249,3 +249,6 @@ Fabi Yugar é uma das mulheres mais engajadas em comunidades e eventos tech pela
 
 ## [79] Kizzy Terra
 Cientista de Dados e co-criadora do canal Programação Dinâmica no YouTube. Bacharel em Engenharia de Computação pelo Instituto Militar de Engenharia (IME). Mestre em Matemática Aplicada pela FGV-RJ. e doutoranda no TIDD(PUC-SP). Além disso, trabalhou como analista de dados de utilidade pública na Fundação Getulio Vargas e no ‪Instituto de Pesquisa Econômica Aplicada, e foi cientista de dados sênior na Cyberlabs. 
+
+## [80] Beatriz Oliveira
+Cloud Engineer atua com a adoção e gerenciamento de tecnologias de nuvem, sendo referência na área de infraestrutura. Também é co-fundadora da SysAdminas que é uma comunidade sem fins lucrativos que tem como objetivo, apoiar o protagonismo feminino na área de Infraestrutura de TI, por meio de capacitação técnica, cultura open source e desenvolvimento de soft skills em um ambiente seguro.
