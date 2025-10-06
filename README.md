@@ -252,3 +252,7 @@ Cientista de Dados e co-criadora do canal Programação Dinâmica no YouTube. Ba
 
 ## [80] Beatriz Oliveira
 Cloud Engineer atua com a adoção e gerenciamento de tecnologias de nuvem, sendo referência na área de infraestrutura. Também é co-fundadora da SysAdminas que é uma comunidade sem fins lucrativos que tem como objetivo, apoiar o protagonismo feminino na área de Infraestrutura de TI, por meio de capacitação técnica, cultura open source e desenvolvimento de soft skills em um ambiente seguro.
+
+## [81] Simara Conceição
+
+Simara Conceição é Desenvolvedora Sênior de Software na Thoughtworks, Google Developer Expert e LinkedIn Top Voice em Tecnologia e Inovação, reconhecida por seu impacto técnico e social no ecossistema de tecnologia. Baiana, com formação inicial em marketing digital, migrou para a área de tecnologia em 2019 e hoje atua com engenharia de software, arquitetura de sistemas e inovação com IA Generativa, liderando projetos e promovendo uma cultura de aprendizado contínuo e diversidade. É também professora na Reprograma e na PretaLab, além de criadora do podcast e da comunidade “Quero Ser &lt;dev&gt;, iniciativas voltadas a inspirar e apoiar mulheres diversas na transição de carreira para a tecnologia. Apaixonada por educação, inovação e inclusão, Simara usa a tecnologia para transformar realidades e reduzir as lacunas de gênero e raça no setor.
