@@ -260,3 +260,8 @@ Simara Conceição é Desenvolvedora Sênior de Software na Thoughtworks, Google
 ## [82] Nina Talks
 
 Karina Tronkos, Educadora de UI/UX Design e Criadora de Conteúdo no Nina Talks, LinkedIn Top Voice e 2x TEDx Speaker, é Graduada em Ciência da Computação pela PUC-Rio, iniciou a carreira como desenvolvedora iOS, mas fez transição para design de experiência do usuário, o que permitiu integrar msua paixão pela tecnologia com o interesse por design. Durante sua jornada, cconquistou o Apple Scholarship por cinco anos consecutivos (2017-2021), uma premiação que a levou a participar da WWDC, evento de inovação da Apple na Califórnia, ao lado de outros 349 desenvolvedores do mundo todo.
+
+## [83] Pachi Parra Codes
+
+Pachi trabalha como Develope Advocate no GitHub, onde pode fazer coisas que ama, como [escrever] e [transmitir código ao vivo]). Depois de ser babá por anos, ela começou a aprender a programar enquanto se conectava com os outros desenvolvedores e se apaixonou pela comunidade de desenvolvedores.
+Criando conteúdo amigável para iniciantes, seu objetivo é tornar uma carreira em tecnologia acessível a todos.
