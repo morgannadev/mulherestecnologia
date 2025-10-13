@@ -256,3 +256,7 @@ Cloud Engineer atua com a adoção e gerenciamento de tecnologias de nuvem, send
 ## [81] Simara Conceição
 
 Simara Conceição é Desenvolvedora Sênior de Software na Thoughtworks, Google Developer Expert e LinkedIn Top Voice em Tecnologia e Inovação, reconhecida por seu impacto técnico e social no ecossistema de tecnologia. Baiana, com formação inicial em marketing digital, migrou para a área de tecnologia em 2019 e hoje atua com engenharia de software, arquitetura de sistemas e inovação com IA Generativa, liderando projetos e promovendo uma cultura de aprendizado contínuo e diversidade. É também professora na Reprograma e na PretaLab, além de criadora do podcast e da comunidade “Quero Ser &lt;dev&gt;, iniciativas voltadas a inspirar e apoiar mulheres diversas na transição de carreira para a tecnologia. Apaixonada por educação, inovação e inclusão, Simara usa a tecnologia para transformar realidades e reduzir as lacunas de gênero e raça no setor.
+
+## [82] Nina Talks
+
+Karina Tronkos, Educadora de UI/UX Design e Criadora de Conteúdo no Nina Talks, LinkedIn Top Voice e 2x TEDx Speaker, é Graduada em Ciência da Computação pela PUC-Rio, iniciou a carreira como desenvolvedora iOS, mas fez transição para design de experiência do usuário, o que permitiu integrar msua paixão pela tecnologia com o interesse por design. Durante sua jornada, cconquistou o Apple Scholarship por cinco anos consecutivos (2017-2021), uma premiação que a levou a participar da WWDC, evento de inovação da Apple na Califórnia, ao lado de outros 349 desenvolvedores do mundo todo.
