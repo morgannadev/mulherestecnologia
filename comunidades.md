@@ -179,3 +179,8 @@ Links: https://www.linkedin.com/company/comunidadecafeina/
 Comunidade tem como objetivo ser um ambiente acolhedor e inclusivo para grupos minoritários, com objetivo de romper o ciclo da falta de experiência em tecnologia, promovendo o aprendizado e propicionando uma visão clara e prática de como são os trabalhos na área por meio de projetos de Código Aberto. Reune indivíduos com experiências diversas e promovendo uma troca significativa de conhecimento, desde pessoas iniciantes até aquelas em desenvolvimento profissional, todas encontram apoio e inspiração, fortalecendo sua jornada por meio da colaboração.
 
 Link: https://cumbuca.dev/ 
+
+## [44] BRAVAS In Tech
+Comunidade gratuita que busca conectar, valorizar e apoiar mulheres para revolucionar o setor de TI pelo protagonismo feminino, unidas por mais mulheres no mercado de tecnologia. O propósito fundamental é valorizar, promover a conexão e impulsionar a carreira de todas as mulheres através da troca de experiências e mentorias para construir um setor mais inclusivo e diverso.
+
+Link: https://www.bravasintech.com.br/
