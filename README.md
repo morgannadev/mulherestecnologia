@@ -265,3 +265,7 @@ Karina Tronkos, Educadora de UI/UX Design e Criadora de Conteúdo no Nina Talks,
 
 Pachi trabalha como Develope Advocate no GitHub, onde pode fazer coisas que ama, como [escrever] e [transmitir código ao vivo]). Depois de ser babá por anos, ela começou a aprender a programar enquanto se conectava com os outros desenvolvedores e se apaixonou pela comunidade de desenvolvedores.
 Criando conteúdo amigável para iniciantes, seu objetivo é tornar uma carreira em tecnologia acessível a todos.
+
+## [84] Morganna
+
+Trabalha como Developer Relations, apaixonada por compartilhar conhecimento com comunidades de tecnologia, espalha a palavra da Ada Lovelace e é co-fundadora de comunidades como: Feministech e Kotlinautas, moderadora de mentorias na Abacatinhos.dev, criadora de conteúdo tech e mantendeora do repositório mulherestecnologia. Seu reconhecimento na tecnologia, resulta de suas contribuições relevantes e por sua atuação em comunidades de tecnologia.
