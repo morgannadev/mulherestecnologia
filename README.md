@@ -269,3 +269,6 @@ Criando conteúdo amigável para iniciantes, seu objetivo é tornar uma carreira
 ## [84] Morganna
 
 Trabalha como Developer Relations, apaixonada por compartilhar conhecimento com comunidades de tecnologia, espalha a palavra da Ada Lovelace e é co-fundadora de comunidades como: Feministech e Kotlinautas, moderadora de mentorias na Abacatinhos.dev, criadora de conteúdo tech e mantendeora do repositório mulherestecnologia. Seu reconhecimento na tecnologia, resulta de suas contribuições relevantes e por sua atuação em comunidades de tecnologia.
+
+## [85] Chieko Asakawa
+É uma cientista de computação japonesa cega, conhecida pelo seu trabalho em acessibilidade na IBM Research. Ela desenvolveu um plug-in para o navegador Netscape, o IBM Home Page Reader, que se tornou o sistema web-to-speech mais amplamente utilizado. Por conta disso, recebeu vários prêmios.
